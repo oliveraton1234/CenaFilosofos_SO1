@@ -4,7 +4,8 @@ El problema de la cena de los filósofos o problema de los filósofos cenando (d
 
 Solucion posible:
 
-Varios turnos
+- Varios turnos
+
 Se establecen varios turnos. Para hacerlo más claro supongamos que cada filósofo que puede comer (es su turno) tiene una ficha que después pasa a la derecha. Si por ejemplo hay 7 comensales podemos poner 3 fichas en posiciones alternas (entre dos de las fichas quedarían dos filósofos).
 
 Se establecen turnos de tiempo fijo. Por ejemplo cada 5 minutos se pasan las fichas (y los turnos) a la derecha.
